@@ -3,7 +3,7 @@ cd Blog
 
 
 
-wget https://snag.gy/ehnEVH.jpg -O Lightning-Components-Basics-4.jpg
+wget https://snag.gy/ehnEVH.jpg -O Lightning-Components-Basics-7.jpg
 
 
 
