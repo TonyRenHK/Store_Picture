@@ -1,8 +1,9 @@
-cd Store_Picture
-cd Superbadge
+
+cd Blog
 
 
-wget https://snag.gy/Ur7kIQ.jpg -O Data-Integration-Specialist-Superbadge-5.jpg
+wget https://snag.gy/U3lmWE.jpg -O Lightning-Components-Basics-1.jpg
+wget https://snag.gy/9kRD1a.jpg -O Lightning-Components-Basics-2.jpg
 
 
 cd .. 
