@@ -9,6 +9,8 @@
 
 
 
+![image](https://raw.githubusercontent.com/TonyRenHK/Store_Picture/master/Blog/Lightning-Components-Basics-10.jpg)
+
 
 
 
